@@ -43,7 +43,7 @@ products.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/console-ecommerce-app.git
+   https://github.com/mohdarsh-3/Ecommerce-console
 Open in IntelliJ or any Java IDE.
 
 Run EcommerceApp.java.
